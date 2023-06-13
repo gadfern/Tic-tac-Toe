@@ -1,0 +1,18 @@
+
+ul{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+li{
+    width: 90px;
+    height: 90px;
+    font-size: 80px;
+    font-family: sans-serif;
+    background-color: lightblue;
+    margin: 5px;
+    list-style: none;
+    text-align: center;
